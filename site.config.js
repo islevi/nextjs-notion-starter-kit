@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Hello world',
-  domain: 'fing.cc',
+  domain: 'https://developing-laborer-026.notion.site/Hello-World-665d0dcbb54a448bb9a4dc59462758a4',
   author: 'Hui Liu',
 
   // open graph metadata (optional)
